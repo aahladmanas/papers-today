@@ -1,11 +1,9 @@
-# papers-today
+# log
 
-List of papers I'm reading/working on
+1. 3/25 - datasets code cleanup, NURD GAN eval;
 
-## Reading list 
 
-#### 11/29 -- 12/3
 
-[Multiple Causes: A Causal Graphical View](https://arxiv.org/abs/1905.12793)
+# papers
 
-[Learning With Kernels](https://www.cs.utah.edu/~piyush/teaching/learning-with-kernels.pdf)
+1.
