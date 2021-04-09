@@ -1,6 +1,6 @@
 # log
 
-1. 3/25 - datasets code cleanup, NURD GAN eval;
+1. 4/9 - Grading, HW 3 solutions, GAN basic check
 
 
 
