@@ -10,7 +10,14 @@
     1. [Inpainting GAN] Saw that default hyperparams + larger LR was getting decent generation at 64x64.
     2. [Inpainting GAN] Using this set of default hyperparams + LR in (1e-3, 1e-4), set experiments with conditional generation. Seem to be going well.
     3. [ERM on reconstructed images]
-    4. [Manifold-flow]: Look at manifold-flow architecture, and set other manifold-flow experiments
+    4. [Manifold-flow]: Look at manifold-flow architecture, and set other manifold-flow experiments  
+1. 5/6  
+    1. [cardio data] Clean up code to include patient class in constructing visits which has implications for constructing condition occurrence.
+    2. [NURD] pixelSNAIL generation takes forever to generate. 30 hours for the whole dataset. I'm generating a smaller data with only 1/3rd the samples and running  NURD and ERM  
+    3. [NURD] Ran ensemble weight model with a resnet on the joint xray data to see if results improve.
+    4. [NURD] Implemented the accuracy on randomly colored image to understand the interplay between statistical bias and optimization bias on CMNIST with exact weights (in range 0.6 --- 0.9)
+
+
 
 
 # papers
