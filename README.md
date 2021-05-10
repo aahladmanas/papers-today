@@ -22,4 +22,9 @@
 
 # papers
 
-1.
+
+
+
+# Tricks
+
+1. scancel batch : ```squeue -u $USER | grep 6653 | awk '{print $1}' | xargs -n 1 scancel```
