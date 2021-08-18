@@ -18,6 +18,9 @@
     4. [NURD] Implemented the accuracy on randomly colored image to understand the interplay between statistical bias and optimization bias on CMNIST with exact weights (in range 0.6 --- 0.9)
 
 
+# thoughts
+
+1. Want to finish a high-level document over the workshop and send to Maggie.
 
 
 # papers
